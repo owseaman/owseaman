@@ -7,7 +7,7 @@ I'm a passionate DevOps/SRE Engineer with a strong interest in Data Science, Dat
 - **Linux Systems**: Expert in managing and optimizing Linux environments.
 - **Scripting**: Proficient in Bash Shell and Python scripting for automation and efficiency.
 - **DevOps Engineering**: Skilled in CI/CD, cloud infrastructure, containerization, and orchestration.
-- **Cloud Services**: Experienced with AWS services, including EKS, ALB, CloudFront, and more.
+- **Cloud Services**: Experienced with AWS, GCP, and Azure DevOps (ADO).
 - **Monitoring & Metrics**: Utilizing tools like Prometheus for metrics and monitoring in Kubernetes setups.
 - **Infrastructure as Code**: Implementing and managing infrastructure with Terraform.
 
