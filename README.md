@@ -1,24 +1,24 @@
 # Hi there 👋, I'm @owseaman
 
 ## About Me
-I'm a passionate DevOps/SRE Engineer with a strong interest in Data Science, Data Manipulation, and DevOps Engineering.
+I'm a seasoned DevOps/SRE Engineer with a deep-seated passion for Data Science, Data Manipulation, and DevOps Engineering. With a robust background in cloud infrastructure and automation, I strive to optimize and streamline deployment processes across various environments.
 
 ## Expertise
-- **Linux Systems**: Expert in managing and optimizing Linux environments.
-- **Scripting**: Proficient in Bash Shell and Python scripting for automation and efficiency.
-- **DevOps Engineering**: Skilled in CI/CD, cloud infrastructure, containerization, and orchestration.
-- **Cloud Services**: Experienced with AWS, GCP, and Azure DevOps (ADO).
-- **Monitoring & Metrics**: Utilizing tools like Prometheus for metrics and monitoring in Kubernetes setups.
-- **Infrastructure as Code**: Implementing and managing infrastructure with Terraform.
+- **Linux Systems**: Mastery in managing and optimizing Linux environments, ensuring high availability and performance.
+- **Scripting**: Advanced proficiency in Bash Shell and Python scripting, enabling efficient automation and problem-solving.
+- **DevOps Engineering**: Extensive experience in CI/CD pipelines, cloud infrastructure management, containerization, and orchestration.
+- **Cloud Services**: Proficient in AWS, GCP, and Azure DevOps (ADO), leveraging cloud platforms to build scalable and reliable systems.
+- **Monitoring & Metrics**: Skilled in utilizing Prometheus and other monitoring tools to maintain and improve system health and performance in Kubernetes environments.
+- **Infrastructure as Code**: Expertise in Terraform for defining and managing infrastructure, ensuring reproducibility and consistency.
 
 ## Interests
-I'm always looking to collaborate on projects related to:
-- Software Testing and Quality Assurance
-- Optimization of Docker images and deployment pipelines
-- Enhancing deployment processes in various environments (development, staging, production)
+I'm enthusiastic about collaborating on projects related to:
+- Software Testing and Quality Assurance: Enhancing the reliability and quality of software products.
+- Docker Image Optimization: Reducing the size and improving the efficiency of Docker images.
+- Deployment Process Enhancement: Streamlining and improving deployment processes across development, staging, and production environments.
 
 ## Get in Touch
-Feel free to reach out to me:
+I'm always open to new opportunities and collaborations. Feel free to reach out to me:
 - 📧 Email: esowoeye@gmail.com
 
 <!---
