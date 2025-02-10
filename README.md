@@ -1,7 +1,7 @@
 # Hi there 👋, I'm @owseaman
 
 ## About Me
-I'm a seasoned DevOps/SRE Engineer with a deep-seated passion for Data Science, Data Manipulation, and DevOps Engineering. With a robust background in cloud infrastructure and automation, I strive to optimize and streamline deployment processes across various environments.
+I'm a seasoned DevOps/SRE Engineer with a deep-seated passion for AI, ML and DevOps Engineering. With a robust background in cloud infrastructure and automation, I strive to optimize and streamline deployment processes across various environments.
 
 ## Expertise
 - **Linux Systems**: Mastery in managing and optimizing Linux environments, ensuring high availability and performance.
